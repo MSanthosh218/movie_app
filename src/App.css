@@ -1,0 +1,9 @@
+body{
+  background: #141414;
+  color:#ffffff
+}
+.movieapp{
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
+
